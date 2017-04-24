@@ -6,7 +6,7 @@
     <name>KBubbleLocalTip</name>
     <message>
         <source>Some features will not work properly. &lt;br/&gt;Please renew now.</source>
-        <translation>Alguns recursos não funcionará corretamente. &lt;br/&gt;Por favor renove agora.</translation>
+        <translation>Alguns recursos não funcionarão corretamente. &lt;br/&gt;Por favor renove agora.</translation>
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
